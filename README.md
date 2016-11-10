@@ -2,7 +2,7 @@
 
 ### 16-2학기 오픈소스소프트웨어개론 : "도" 팀 repo 입니다.
 
-#Teammate
+Teammate
 
  심형관 / gudrhks2@naver.com
  고대영 / dykoh7@gmail.com
